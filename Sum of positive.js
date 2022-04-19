@@ -3,5 +3,5 @@ function positiveSum(arr) {
     for(let a of arr ) {
       if (a > 0) sum = sum + a;
     } 
-    return sum;
+    return sum; 
   }
